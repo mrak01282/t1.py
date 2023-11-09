@@ -1,2 +1,1 @@
-# t1.py
-Practical file
+print('Hello World')
